@@ -85,8 +85,3 @@ The MPU6050 library used by this project must be installed in the Arduino IDE.
 - Using libraries to communicate with hardware.
 - Displaying sensor measurements through serial communication.
 
-
-
-Electronics and Computing Engineering Student
-
-Interested in embedded systems, electronics, and IoT.
